@@ -45,4 +45,4 @@ Hi there, I'm **Rafliano Ziyad Adzani**, a **Python Developer**.
 
 <code><img height="30" alt="GIF" src="https://camo.githubusercontent.com/31f3f66bc1c56636612c1f5fed11d6ff238aeab7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966"></code> **How about my Github Stats?**  
 
-![Rafli github stats](https://github-readme-stats.vercel.app/api?username=kouseina&show_icons=true&hide_border=true&theme=tokyonight)
+![Rafli github stats](https://github-readme-stats.vercel.app/api?username=kelaskazeters&show_icons=true&hide_border=true&theme=tokyonight)
