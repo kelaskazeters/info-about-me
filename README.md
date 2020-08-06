@@ -3,11 +3,11 @@
 <a href="https://www.linkedin.com/in/rafliano-ziyad-adzani-4678181ab/">
   <img align="left" alt="Rafli LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/pengguna.vim/">
-  <img align="left" alt="Daffa's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/programmer.malas/">
+  <img align="left" alt="Rafli Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/the.programmer.malas/">
-  <img align="left" alt="Daffa's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Rafli Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br />
@@ -19,7 +19,7 @@ Hi there, I'm **Rafliano Ziyad Adzani**, a **Python Developer**.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a Back-end Engineer;
+- 👨🏽‍💻 I’m currently a Back-end Developer;
 - 🌱 I’m currently learning C++, Java, & Python; 
 - 🤔 My interests are with Math, & Computer
 - 📫 Please email via msg.kazeters@gmail.com to reach me.
