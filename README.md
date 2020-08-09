@@ -13,15 +13,15 @@
 <br />
 <br />
 
-Hi there, I'm **Rafliano Ziyad Adzani**, a **Python Developer**.
+Hi there, I'm **Rafliano Ziyad Adzani**, a **Backend Developer**.
 
   <img align="right" alt="GIF" height="350" src="https://user-images.githubusercontent.com/56005648/88882070-52216a80-d25b-11ea-88d4-dbc2862d642a.gif" />
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently a Back-end Developer;
-- 🌱 I’m currently learning C++, Java, & Python; 
-- 🤔 My interests are with Math, & Computer
+- 🌱 I’m currently learning JavaScript, Java, & Python; 
+- 🤔 My interests are with Math, & Computer.
 - 📫 Please email via msg.kazeters@gmail.com to reach me.
 - ⚡ Fun fact: I like Dark Jokes
 
