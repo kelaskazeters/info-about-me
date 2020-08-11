@@ -20,7 +20,7 @@ Hi there, I'm **Rafliano Ziyad Adzani**, a **Backend Developer**.
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently a Back-end Developer;
-- 🌱 I’m currently learning JavaScript, Java, & Python; 
+- 🌱 I’m currently learning C++, JavaScript, Java, & Python; 
 - 🤔 My interests are with Math, & Computer.
 - 📫 Please email via msg.kazeters@gmail.com to reach me.
 - ⚡ Fun fact: I like Dark Jokes
