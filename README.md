@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi there, I'm **Rafliano Ziyad Adzani**, a **Backend Developer**.
+Hi there, I'm **Rafliano Ziyad Adzani**, a **Back-end Developer**.
 
   <img align="right" alt="GIF" height="350" src="https://user-images.githubusercontent.com/56005648/88882070-52216a80-d25b-11ea-88d4-dbc2862d642a.gif" />
 
@@ -39,7 +39,7 @@ Hi there, I'm **Rafliano Ziyad Adzani**, a **Backend Developer**.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouseina&layout=compact)](https://github.com/kelaskazeters/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelaskazeters&layout=compact)](https://github.com/kelaskazeters/github-readme-stats)
 
 <br />
 
