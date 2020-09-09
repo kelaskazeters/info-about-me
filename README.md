@@ -20,7 +20,7 @@ Hi there, I'm **Rafliano Ziyad Adzani**, a **Back-end Developer**.
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently a Back-end Developer;
-- 🌱 I’m currently learning C++, JavaScript, Java, & Python; 
+- 🌱 I’m currently learning C++, JavaScript, & Python; 
 - 🤔 My interests are with Math, & Computer.
 - 📫 Please email via msg.kazeters@gmail.com to reach me.
 - ⚡ Fun fact: I like Dark Jokes
@@ -34,12 +34,11 @@ Hi there, I'm **Rafliano Ziyad Adzani**, a **Back-end Developer**.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelaskazeters&layout=compact)](https://github.com/raflianoza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raflianoza&layout=compact)](https://github.com/raflianoza/github-readme-stats)
 
 <br />
 
